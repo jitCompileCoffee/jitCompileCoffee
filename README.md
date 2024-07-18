@@ -4,8 +4,8 @@
 I love to learn and take on new challenges.
 
 ## Technical Skills 🛠️
-- **Languages:** JavaScript, Python, TypeScript
-- **Frameworks & Libraries:** React, Remix, Node.js, Liquid, PHP
+- **Languages:** JavaScript, Python, TypeScript, Liquid, PHP
+- **Frameworks & Libraries:** React, Remix, Node.js
 - **Tools & Platforms:** GitHub, Docker, Vercel
 - **Data Science & AI:** Proficient in machine learning concepts and data analysis.
 
